@@ -1,8 +1,8 @@
+Hi, I'm Thom,
+a front-end developer with a passion for building intuitive and user-friendly web and mobile applications. Currently, I am working at Fuerza studio, where I am able to apply my skills and knowledge to a variety of projects.
 
-Thom Morais, frontend developer
+My skillset includes React, React Native, Three.js, Electron, and more. I'm also currently learning about shaders and expanding my knowledge in graphics programming. In addition to my technical skills, I have a strong understanding of SEO principles and how to optimize websites for search engines.
 
-I'm a Brazilian developer with focus on frontend, I care about SEO, accessibility and good UX, I have experience with React and React ecosystem (redux, recoil, framer-motion, next.js), React Native some experience with svelte, vuejs, electron, firebase and I'm getting into three.js and the amazing world of shaders.
+I'm always looking for new challenges and opportunities to grow as a developer, and I'm excited to bring my skills and experience to any project.
 
-Currently I'm working at Fuerza building applications for large and small business.
 You can reach me at thommorais@gmail.com
-
