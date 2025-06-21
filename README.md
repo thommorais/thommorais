@@ -1,4 +1,5 @@
 Hi, I'm Thom,
-I’m a Brazilian developer with a focus on front-end development, I am dedicated to optimizing website speed, search engine optimization (SEO), accessibility, and delivering an good user experience (UX). My expertise extends to React and its ecosystem, including Redux, Recoil, Framer Motion, and Next.js. Additionally, I have hands-on experience with React Native and a foundational understanding of Svelte, Electron, Wordpress, Strapi and Golang. Currently, I am exploring Three.js and GLSL, expanding my skill set in 3D graphics and visual effects.
+
+Brazilian developer who builds fast, SEO-optimized, and accessible web applications. Experienced with the React ecosystem, Next.js, and React Native. Proficient in end-to-end development, handling both frontend and backend layers. Currently learning Three.js and GLSL to implement 3D graphics on websites.
 
 You can reach me at thommorais@gmail.com
